@@ -12,24 +12,25 @@ We discuss how from a business perspective, the model may be appropriate for sce
 
 ### Table of Contents
 
-0. Project Statement and Purpose
-1. Setup and Data Preprocessing
-  1.1 Importing modules and data
-  1.2 One-hot encoding categorical variables
-  1.3 Standardising the data
-  1.4 Detecting multicollinearity in continuous variables using VIF (Variance Inflation Factor))
-2. Implementing our Bayesian Logistic Regression Model
-  2.1 Model Assumptions
-  2.2 Splitting data into training and test sets
-  2.3 Defining the priors & likelihood fn distributions
-  2.4 Running (Markov chain Monte Carlo) MCMC analysis to build the posterior sample-MCMC-analysis-to-build-the-posterior-sample)
-  2.5 Posterior Sampling Process Diagnostics
-  2.6 Adjusting our model to bias towards predicting more defaults
-3. The Bayesian Models Predictions & Results
-  3.1 Bayesian Model evaluated on training data
-  3.2 Bayesian Model evaluated on test data
-  3.3 Conclusion & summary of results
-4. Acknowledgements
+0. **Project Statement and Purpose**
+1. **Setup and Data Preprocessing**
+   - 1.1 Importing modules and data
+   - 1.2 One-hot encoding categorical variables
+   - 1.3 Standardising the data
+   - 1.4 Detecting multicollinearity in continuous variables using VIF (Variance Inflation Factor)
+2. **Implementing our Bayesian Logistic Regression Model**
+   - 2.1 Model Assumptions
+   - 2.2 Splitting data into training and test sets
+   - 2.3 Defining the priors & likelihood function distributions
+   - 2.4 Running (Markov chain Monte Carlo) MCMC analysis to build the posterior sample
+   - 2.5 Posterior Sampling Process Diagnostics
+   - 2.6 Adjusting our model to bias towards predicting more defaults
+3. **The Bayesian Models Predictions & Results**
+   - 3.1 Bayesian Model evaluated on training data
+   - 3.2 Bayesian Model evaluated on test data
+   - 3.3 Conclusion & summary of results
+4. **Acknowledgements**
+
 
 ### Acknowledgements
 
