@@ -1,6 +1,6 @@
 # Using Bayesian modelling to predict default of credit card users
 
-### Project overview:
+## Project overview:
 
 **I build a simple Bayesian Logistic Regression model in order to help predict whether credit card customers are going to default.**
 
@@ -10,7 +10,7 @@ The result is a very defensive model that has 90% accuracy on any "non-default" 
 
 We discuss how from a business perspective, the model may be appropriate for scenarios where capacity to onboard new clients is small and the main objective is risk mitigation.
 
-### Table of Contents
+## Table of Contents
 
 0. **Project Statement and Purpose**
 1. **Setup and Data Preprocessing**
@@ -31,8 +31,7 @@ We discuss how from a business perspective, the model may be appropriate for sce
    - 3.3 Conclusion & summary of results
 4. **Acknowledgements**
 
-
-### Acknowledgements
+## Acknowledgements
 
 Dataset taken from Kaggle: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
